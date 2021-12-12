@@ -2,7 +2,7 @@ header nav {
   padding: 0px, 10px, 0px, 10px;
   height: 70px;
   background-color: #A4E50B;
-  color: white;
+  color: #e1e0df;
 }
 
 header nav h1 {
@@ -27,11 +27,11 @@ header nav ul li {
 
 header nav ul li a {
   text-decoration: none;
-  color: #ecdfdf;
+  color: #e1e0df;
 }
 
 header nav ul li a:hover {
-  color: white;
+  color: #e1e0df;
 }
 
 header .judul {
@@ -55,7 +55,7 @@ main {
 }
 
 main section {
-  color: white;
+  color: #e1e0df;
   background-color: #528403;
   width: 802.1px;
   height: 100%;
@@ -80,7 +80,7 @@ main section article article h4 {
 }
 
 main aside {
-  color: #ffffff;
+  color: #e1e0df;
   background-color: #406D02;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -99,7 +99,7 @@ footer {
   display: inline-block;
   width: 100%;
   margin-top: 30px;
-  color: white;
+  color: #e1e0df;
   height: 200px;
 }
 
@@ -120,7 +120,7 @@ footer .kiri .kontak {
 }
 
 footer .kiri .kontak a {
-  color: white;
+  color: #e1e0df;
   text-decoration: none;
 }
 
@@ -130,7 +130,7 @@ footer .link-tambahan {
 }
 
 footer .link-tambahan a {
-  color: white;
+  color: #e1e0df;
   text-decoration: none;
 }
 
